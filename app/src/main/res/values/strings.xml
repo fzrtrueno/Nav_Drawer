@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Nav_Drawer5A</string>
+    <string name="navigation_drawer_open">Open
+        navigation drawer
+    </string>
+    <string name="navigation_drawer_close">Close
+        navigation drawer
+    </string>
+    <string name="nav_header_title">Grupo 5A
+    </string>
+    <string name="nav_header_subtitle">
+       grupo5A@utcam.edu.mx
+    </string>
+    <string name="nav_header_desc">Navigation
+        header
+    </string>
+    <string name="action_settings">Configuración
+    </string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Galería</string>
+    <string name="menu_slideshow">Presentación
+    </string>
+    <string name="menu_tools">Herramientas
+    </string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Enviar</string>
+</resources>
